@@ -9,6 +9,16 @@
 
 ## 安装方式
 
+### 方式 1：Chrome web store 安装
+
+一键安装，支持自动升级
+
+[![](https://fonts.gstatic.com/s/i/productlogos/chrome_store/v7/192px.svg)](https://chromewebstore.google.com/detail/%E5%BE%AE%E6%90%AD%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/enbejkcgncpladfmegbbdpmcnipfponm?hl=en-US)
+
+### 方式 2：手动下载安装
+
+适合 Edge 浏览器或者无法打开 Chrome Web Store 的场景，无法自动升级
+
 <img width="497" alt="image" src="https://github.com/TencentCloudBase/weda-devtools/assets/7686861/3807dcfa-dfae-4f28-8a7b-926060979a91">
 
 - 从[Release](https://github.com/TencentCloudBase/weda-devtools/releases) 页面下载扩展的 zip包，在本地进行解压
